@@ -1,2 +1,2 @@
 first blog
-{{ "/pics/p3(2).png" | prepend: site.baseurl }}
+![有帮助的截图]({{ site.url }}/pics/p3(2).png)
